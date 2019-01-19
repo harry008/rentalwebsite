@@ -1,0 +1,10 @@
+@media screen only and(max-width:991px;){
+	#csscard{
+		width:100%;
+		margin-bottom:100%;
+		overflow-x:scroll;
+		overflow-y:scroll;
+		-ms-overflow-style:-ms-autohiding-scrollbar;
+		-webkit-overflow-scrolling:touch;
+	}
+}
